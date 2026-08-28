@@ -7,7 +7,7 @@ Want to get to know Bob better? Follow [#BobAtOPTANO](https://www.linkedin.com/f
 
 ## Running the Application
 
-The application is a simple C# console application. Checkout or download the repository and either run it from an IDE or terminal (requires an installed [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)).
+The application is a simple C# console application. Checkout or download the repository and either run it from an IDE or terminal (requires an installed [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)).
 
 ```dotnetcli
 dotnet run --project BobSuperStores/BobSuperStores.csproj -- -s CsvData
